@@ -203,10 +203,10 @@ Each sprint contains 3 stories and 21 story points, so the workload is balanced.
 ![Timeline](screenshots/board.png)
 
 ### 7. Sprint 1 burndown chart
-![Sprint 1 burndown](screenshots/burndown_sprint_1.png)
+![Sprint 1 burndown](screenshots/burndown_chart_sprint_1.png)
 
 ### 8. Sprint 2 burndown chart
-![Sprint 2 burndown](screenshots/burndown_sprint_2.png)
+![Sprint 2 burndown](screenshots/burndown_chart_sprint_2.png)
 
 ---
 
