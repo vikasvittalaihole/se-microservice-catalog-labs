@@ -185,28 +185,28 @@ Each sprint contains 3 stories and 21 story points, so the workload is balanced.
 | 8 | [`08-burndown-sprint-2.png`](screenshots/08-burndown-sprint-2.png) | Sprint 2 burndown chart (Jira Sprint report, story points). |
 
 ### 1. Project overview
-![Project overview](screenshots/01-project-overview.png)
+![Project overview](screenshots/project-overview.png)
 
 ### 2. Epics
-![Epics](screenshots/02-epics.png)
+![Epics](screenshots/epichs.png)
 
 ### 3. Stories
-![Stories](screenshots/03-stories.png)
+![Stories](screenshots/stories.png)
 
 ### 4. Sprint 1
 ![Sprint 1](screenshots/04-sprint-1.png)
 
 ### 5. Sprint 2
-![Sprint 2](screenshots/05-sprint-2.png)
+![Sprint 2](screenshots/sprint-2.png)
 
 ### 6. Timeline / board
-![Timeline](screenshots/06-board.png)
+![Timeline](screenshots/board.png)
 
 ### 7. Sprint 1 burndown chart
-![Sprint 1 burndown](screenshots/07-burndown-sprint-1.png)
+![Sprint 1 burndown](screenshots/burndown-sprint-1.png)
 
 ### 8. Sprint 2 burndown chart
-![Sprint 2 burndown](screenshots/08-burndown-sprint-2.png)
+![Sprint 2 burndown](screenshots/burndown-sprint-2.png)
 
 ---
 
