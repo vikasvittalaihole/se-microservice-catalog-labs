@@ -15,3 +15,7 @@ Contains functional and non-functional requirements, a UML use-case diagram, and
 Contains the Agile planning and tracking work, including 3 epics, 6 user stories, 2 sprints, story-point estimation, prioritisation, and Jira progress tracking.
 
 Each lab folder contains its own README with detailed documentation and artifacts.
+
+### Lab 4 — VibeCoding with AI Tools
+
+Contains the VibeCoding assignment on the 42_marble-tilt-maze Python game. Using Claude, the broken corner collision was fixed and three features were added: a game over screen, replay with Easy/Medium/Hard difficulty, and generated sound effects. Includes before and after videos, the updated code, and the chat history.
