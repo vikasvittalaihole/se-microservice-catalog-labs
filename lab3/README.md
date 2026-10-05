@@ -21,5 +21,5 @@ Architecture design for the Internal Microservice Catalog & Health Portal, exten
 IPortalAPI, IAuth, ICatalog, IHealth, IDependency, IDocs, IAlert, ISend, IHealthCheck, IApiSpec, plus a data interface for each database.
 
 ## Files
-- [lab3_component_diagram.png](lab3_component_diagram.png) - UML component diagram
-- [lab3_justification.pdf](lab3_justification.pdf) - 1-page architecture justification
+- [component_diagram.png](component_diagram.png) - UML component diagram
+- [justification.pdf](justification.pdf) - 1-page architecture justification
