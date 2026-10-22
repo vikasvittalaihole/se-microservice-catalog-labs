@@ -23,3 +23,7 @@ Contains a UML component diagram and a written justification for choosing a micr
 ### Lab 4 — VibeCoding with AI Tools
 
 Contains the VibeCoding assignment on the 42_marble-tilt-maze Python game. Using Claude, the broken corner collision was fixed and three features were added: a game over screen, replay with Easy/Medium/Hard difficulty, and generated sound effects. Includes before and after videos, the updated code, and the chat history.
+
+### Lab 5 — Static Code Analysis
+
+Contains the static code analysis assignment for the Python Student Grade System. Uses Pylint, Flake8, and Bandit to identify code quality, style, and security issues. Includes the updated source code, before-and-after analysis reports, an issue summary, and a reflection on the improvements made.
