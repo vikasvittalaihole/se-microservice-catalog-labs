@@ -28,5 +28,6 @@ Contains the VibeCoding assignment on the 42_marble-tilt-maze Python game. Using
 
 Contains the static code analysis assignment for the Python Student Grade System. Uses Pylint, Flake8, and Bandit to identify code quality, style, and security issues. Includes the updated source code, before-and-after analysis reports, an issue summary, and a reflection on the improvements made.
 
-Lab 6 — Code and Branch Coverage Analysis
+### Lab 6 — Code and Branch Coverage Analysis
+
 Contains the coverage assignment for the Salon Booking module (`salon_booking.py`). Includes code coverage and branch coverage test suites written with pytest and coverage.py, both at 100%, along with terminal screenshots of each report in the `lab6/screenshots` folder.
