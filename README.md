@@ -31,3 +31,7 @@ Contains the static code analysis assignment for the Python Student Grade System
 ### Lab 6 — Code and Branch Coverage Analysis
 
 Contains the coverage assignment for the Salon Booking module (`salon_booking.py`). Includes code coverage and branch coverage test suites written with pytest and coverage.py, both at 100%, along with terminal screenshots of each report in the `lab6/screenshots` folder.
+
+### Lab 7 — Fuzz Testing for Input Validation
+
+Uses Hypothesis to fuzz the Salon Booking module's three functions, which exposed crashes on `None` and malformed input. The functions now reject bad input with clear `ValueError`s, and the tests pass on the fixed code. The screenshot report is in `lab7/PES1UG24CS534.pdf`.
